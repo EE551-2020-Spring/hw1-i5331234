@@ -14,6 +14,7 @@ def numbers_and_strings():
     x = "EE551"
 
     # Assign a string "Stevens" to a variable y
+    y
 
     # Repeat variable y 5 times
 
