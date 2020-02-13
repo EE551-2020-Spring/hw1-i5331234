@@ -23,11 +23,11 @@ def numbers_and_strings():
     len(z)
 
     # Concatenate variable y with string " is good"
-    y + " is good"
+    n = y + " is good"
 
     # Replace "good" with "awesome" in variable m and assign it to a new variable n
-    m = "awesome"
-    n = "good"
+    x = n.replace("good", "awesome")
+    x
 
     return x, y, z, length, m, n
 
