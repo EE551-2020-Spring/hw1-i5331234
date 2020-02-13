@@ -97,7 +97,10 @@ def dictionaries():
     d["jobs"][2]
 
     # Use the sort() function to get sorted keys of amazing_grace in alphabetically ascending order
-    不懂啥意思？
+    y = "amazing_grace"
+    n = list(y)
+    n.sort()
+    n
 
     return a, f, p, k
 
